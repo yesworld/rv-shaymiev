@@ -4,5 +4,5 @@ const name = ref('')
 </script>
 
 <template lang="pug">
-
+SlideSection
 </template>

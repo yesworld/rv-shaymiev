@@ -11,13 +11,20 @@ html.dark {
 }
 
 h1 {
-  @apply text-4xl;
+  @apply text-5xl;
 }
 h2 {
-  @apply text-2xl;
+  @apply text-4xl;
+}
+h3 {
+  @apply text-3xl;
+}
+
+p {
+  @apply text-lg;
 }
 
 hr {
-  @apply m-8 ml-0 h-2 bg-red;
+  @apply m-8 ml-0 h-2 bg-red text-center;
   transform: skew(-20deg);
 }

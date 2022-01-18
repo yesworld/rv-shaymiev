@@ -1,9 +1,9 @@
 <template lang="pug">
 HeadSection
 
-main(font-sans)
-  h1 test theme style
+main
   router-view
+
   Footer
 </template>
 
