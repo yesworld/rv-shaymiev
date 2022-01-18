@@ -2,9 +2,14 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-import '@unocss/reset/tailwind.css'
+// windicss layers
+import 'virtual:windi-base.css'
+import 'virtual:windi-components.css'
 import './styles/main.css'
-import 'uno.css'
+// windicss utilities should be the last style import
+import 'virtual:windi-utilities.css'
+// windicss devtools support (dev only)
+import 'virtual:windi-devtools'
 
 import router from '~/router'
 

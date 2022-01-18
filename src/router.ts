@@ -1,9 +1,9 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-import IndexPage from '~/pages/index.vue'
+import LongreadPage from '~/pages/longread.vue'
 
 const routes = [
-  { path: '/', component: IndexPage },
+  { path: '/', component: LongreadPage },
 ]
 
 export default createRouter({
