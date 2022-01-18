@@ -4,9 +4,11 @@
 
 <template lang="pug">
 header(grid="~ cols-1 md:cols-2")
-  div(m="x-4") qwrqrwrwerwr wer wr wer
+  div.description(m="x-4")
   div.image(m="x-4")
     div
+
+div.logo
 </template>
 
 <style lang="scss">
@@ -16,13 +18,23 @@ header {
   background: url('~/asserts/images/003_1.jpg') no-repeat;
   background-size: cover;
 
-  .image {
-    > div {
-      @apply w-full h-full;
-      background: url('~/asserts/images/shaymiev.png') no-repeat;
-      background-size: 77%;
-      background-position: 80% 100%;
-    }
+  .description > div {
+    display: flex;
   }
+
+  .image > div {
+      @apply w-full h-full;
+      background: url('~/asserts/images/shaymiev.png') no-repeat 80% 100%;
+      background-size: 77%;
+    }
+}
+
+.logo {
+  background: url('~/asserts/logo.svg') no-repeat;
+  position: absolute;
+  top: 15px;
+  left: 25px;
+  width: 150px;
+  height: 32px;
 }
 </style>
