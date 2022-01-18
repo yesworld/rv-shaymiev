@@ -4,8 +4,13 @@
 
 <template lang="pug">
 header(grid="~ cols-1 md:cols-2")
-  div.description(m="x-4")
-  div.image(m="x-4")
+  div.description(m="x-4" )
+    div
+      h1 Первому президенту Татарстана, Госсоветнику республики Минтимеру Шаймиеву 20 января исполнится 85 лет.
+      hr.w-20
+      h2 Жители Татарстана поделились с «Реальным временем» своими историями о Бабае.
+
+  div.image(m="x-4" ba)
     div
 
 div.logo
@@ -18,8 +23,17 @@ header {
   background: url('~/asserts/images/003_1.jpg') no-repeat;
   background-size: cover;
 
-  .description > div {
+  .description {
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    > div {
+      @apply w-9/12;
+      display: flex;
+      flex-direction: column;
+    }
   }
 
   .image > div {

@@ -9,6 +9,8 @@ module.exports = {
     },
   },
   shortcuts: {
+    'bg-red': 'bg-[#e24130]',
+    'bg-blue': 'bg-[#303d4f]',
     // btn: 'py-4 px-4 font-semibold rounded-lg shadow-md',
     // 'btn-green': 'text-blue bg-green-500 hover:bg-blue-700 !important',
     // btn: {

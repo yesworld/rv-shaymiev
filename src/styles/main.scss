@@ -1,0 +1,23 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+html.dark {
+  background: #121212;
+}
+
+h1 {
+  @apply text-4xl;
+}
+h2 {
+  @apply text-2xl;
+}
+
+hr {
+  @apply m-8 ml-0 h-2 bg-red;
+  transform: skew(-20deg);
+}
