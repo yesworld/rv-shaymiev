@@ -10,24 +10,28 @@ CommentSection(:dude="comments[1]")
 
 Block02Section
 CommentSection(:dude="comments[2]")
-hr.w-50.inline-flex
-CommentSection(:dude="comments[3]")
 
 Block03Section
-CommentSection(:dude="comments[5]")
+CommentSection(:dude="comments[3]")
 hr.w-50.inline-flex
-CommentSection(:dude="comments[6]")
+CommentSection(:dude="comments[4]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[5]")
 
 Block04Section
+CommentSection(:dude="comments[6]")
+hr.w-50.inline-flex
 CommentSection(:dude="comments[7]")
 hr.w-50.inline-flex
 CommentSection(:dude="comments[8]")
 hr.w-50.inline-flex
 CommentSection(:dude="comments[9]")
-hr.w-50.inline-flex
-CommentSection(:dude="comments[10]")
 
 Block05Section
+CommentSection(:dude="comments[10]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[18]")
+hr.w-50.inline-flex
 CommentSection(:dude="comments[11]")
 hr.w-50.inline-flex
 CommentSection(:dude="comments[12]")
@@ -41,9 +45,7 @@ hr.w-50.inline-flex
 CommentSection(:dude="comments[16]")
 hr.w-50.inline-flex
 CommentSection(:dude="comments[17]")
-hr.w-50.inline-flex
-CommentSection(:dude="comments[18]")
 
-div.h-100
+div.h-50
 //.bg-red-100
 </template>

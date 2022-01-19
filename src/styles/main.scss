@@ -37,3 +37,27 @@ hr {
 .quotes {
   @apply italic
 }
+
+@media (max-width: 900px) {
+  h1 {
+    @apply text-3xl;
+  }
+  h2 {
+    @apply text-2xl;
+  }
+  h3 {
+    @apply text-xl;
+  }
+  p {
+    @apply text-lg;
+  }
+  hr {
+    @apply m-2 ml-0 h-2;
+  }
+  .quotes {
+    @apply text-sm;
+    > p {
+      @apply text-sm;
+    }
+  }
+}
