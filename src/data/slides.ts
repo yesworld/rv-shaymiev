@@ -50,23 +50,23 @@ const block4 = [
 const block5 = [
   {
     src: '/images/block5/01.jpg',
-    html: '«Должен <a href="http://www.allsportinfo.ru/index.php?id=40249" target="_blank" rel="nofollow noindex noopener">сказать</a>, что очень много для развития Татарстана, для экономики Татарстана, социальной сферы, для спорта сделал первый президент Татарстана Минтимер Шарипович Шаймиев»',
+    html: 'Владимир Путин: «Должен <a href="http://www.allsportinfo.ru/index.php?id=40249" target="_blank" rel="nofollow noindex noopener">сказать</a>, что очень много для развития Татарстана, для экономики Татарстана, социальной сферы, для спорта сделал первый президент Татарстана Минтимер Шарипович Шаймиев»',
   },
   {
     src: '/images/block5/02.jpg',
-    html: '«Минтимер Шарипович Шаймиев — один из наиболее сильных руководителей российских регионов в 90-е годы. Это человек, который старался добиться максимальных результатов для Татарстана в весьма сложный период, и это у него <a href="https://news.rambler.ru/politics/35883983-r24-medvedev-nazval-shaymieva-odnim-iz-naibolee-silnyh-rukovoditeley-rossiyskih-regionov/" target="_blank" rel="nofollow noindex noopener">получилось</a>»',
+    html: 'Дмитрий Медведев: «Минтимер Шарипович Шаймиев — один из наиболее сильных руководителей российских регионов в 90-е годы. Это человек, который старался добиться максимальных результатов для Татарстана в весьма сложный период, и это у него <a href="https://news.rambler.ru/politics/35883983-r24-medvedev-nazval-shaymieva-odnim-iz-naibolee-silnyh-rukovoditeley-rossiyskih-regionov/" target="_blank" rel="nofollow noindex noopener">получилось</a>»',
   },
   {
     src: '/images/block5/03.jpg',
-    html: '«От себя лично, не как от президента, а лично хочу сказать спасибо Минтимеру Шариповичу. Вы наш <a href="https://realnoevremya.ru/news/185240-na-rodine-shaymieva-otkryli-byust-pervomu-prezidentu-tatarstana">учитель</a>»',
+    html: 'Рустам Минниханов: «От себя лично, не как от президента, а лично хочу сказать спасибо Минтимеру Шариповичу. Вы наш <a href="https://realnoevremya.ru/news/185240-na-rodine-shaymieva-otkryli-byust-pervomu-prezidentu-tatarstana">учитель</a>»',
   },
   {
     src: '/images/block5/05-1.JPG',
-    html: '«Это <a href="https://realnoevremya.ru/news/167494-naina-elcina-shaymiev---eto-chelovek-legenda">великий</a>, замечательный человек. Борис Николаевич с ним всегда считался, советовался. Он считал, что Татарстан находится в надежных руках. Шаймиев очень много сделал для республики — это человек-легенда!»',
+    html: 'Наина Ельцина: «Это <a href="https://realnoevremya.ru/news/167494-naina-elcina-shaymiev---eto-chelovek-legenda">великий</a>, замечательный человек. Борис Николаевич с ним всегда считался, советовался. Он считал, что Татарстан находится в надежных руках. Шаймиев очень много сделал для республики — это человек-легенда!»',
   },
   {
     src: '/images/block5/06.jpg',
-    html: '«Он <a href="https://news.rambler.ru/politics/45639767-kak-zhit-ne-vygoraya-eto-primer-mintimera-sharipovicha/" target="_blank" rel="nofollow noindex noopener">начал</a> массу важных и нужных программ — и сумел их довести до конца. А если не рисковать – значит, ничего не будет»',
+    html: 'Евгений Богачев: «Он <a href="https://news.rambler.ru/politics/45639767-kak-zhit-ne-vygoraya-eto-primer-mintimera-sharipovicha/" target="_blank" rel="nofollow noindex noopener">начал</a> массу важных и нужных программ — и сумел их довести до конца. А если не рисковать – значит, ничего не будет»',
   },
 ]
 
