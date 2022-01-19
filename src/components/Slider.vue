@@ -3,6 +3,7 @@
 import { Carousel, Navigation, Pagination, Slide } from 'vue3-carousel'
 import { defineProps } from 'vue'
 
+// https://ismail9k.github.io/vue3-carousel/examples.html
 const props = defineProps({
   settings: {
     type: Object,

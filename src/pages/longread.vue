@@ -1,8 +1,8 @@
 <script setup lang="ts">
-const name = ref('')
-
 </script>
 
 <template lang="pug">
-SlideSection
+Block01Section
+CommentSection
+div.h-100.bg-red-100
 </template>

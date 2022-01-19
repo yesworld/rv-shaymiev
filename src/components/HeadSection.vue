@@ -6,9 +6,9 @@
 header(grid="~ cols-1 md:cols-2")
   div.description(m="x-4")
     div
-      h1 Заголовок 2
+      h1 Минтимеру Шаймиеву — 85
       hr.w-20
-      h3 Первому президенту республики исполняется 85 лет. Роль Минтимера Шаймиева в сохранении и становлении промышленности и экономики РТ огромна. Об этом - в исторических кадрах и цитатах
+      h3 Роль Минтимера Шаймиева в сохранении и становлении промышленности и экономики Татарстана огромна. К юбилею первого президента республики: как строился промышленный Татарстан — в исторических кадрах и цитатах Шаймиева
 
   div.image(m="x-4")
     div
@@ -20,7 +20,7 @@ div.logo
 header {
   height: 100vh;
   position: relative;
-  background: url('~/asserts/images/003_1.jpg') no-repeat;
+  background: url('/images/003_1.jpg') no-repeat;
   background-size: cover;
 
   .description {
@@ -38,13 +38,13 @@ header {
 
   .image > div {
       @apply w-full h-full;
-      background: url('~/asserts/images/shaymiev.png') no-repeat 80% 100%;
+      background: url('/images/shaymiev.png') no-repeat 80% 100%;
       background-size: 90%;
     }
 }
 
 .logo {
-  background: url('~/asserts/logo.svg') no-repeat;
+  background: url('/images/logo.svg') no-repeat;
   position: absolute;
   top: 15px;
   left: 25px;

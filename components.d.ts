@@ -4,11 +4,13 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
+    Block01Section: typeof import('./src/components/Block01Section.vue')['default']
+    Block02Section: typeof import('./src/components/Block02Section.vue')['default']
+    CommentSection: typeof import('./src/components/CommentSection.vue')['default']
     Counter: typeof import('./src/components/Counter.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
     HeadSection: typeof import('./src/components/HeadSection.vue')['default']
     Slider: typeof import('./src/components/Slider.vue')['default']
-    SlideSection: typeof import('./src/components/SlideSection.vue')['default']
   }
 }
 
