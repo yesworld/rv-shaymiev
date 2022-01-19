@@ -11,8 +11,10 @@ import 'virtual:windi-utilities.css'
 // windicss devtools support (dev only)
 import 'virtual:windi-devtools'
 
-import router from '~/router'
+// vue3-carousel
+import 'vue3-carousel/dist/carousel.css'
 
+import router from '~/router'
 const app = createApp(App)
 app.use(router)
 app.mount('#app')

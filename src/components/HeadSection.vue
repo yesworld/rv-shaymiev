@@ -39,7 +39,7 @@ header {
   .image > div {
       @apply w-full h-full;
       background: url('~/asserts/images/shaymiev.png') no-repeat 80% 100%;
-      background-size: 77%;
+      background-size: 90%;
     }
 }
 
