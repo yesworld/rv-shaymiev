@@ -44,5 +44,6 @@ CommentSection(:dude="comments[17]")
 hr.w-50.inline-flex
 CommentSection(:dude="comments[18]")
 
-div.h-100.bg-red-100
+div.h-100
+//.bg-red-100
 </template>

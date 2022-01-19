@@ -4,7 +4,7 @@ HeadSection
 main
   router-view
 
-  Footer
+  //Footer
 </template>
 
 <style lang='scss'>
