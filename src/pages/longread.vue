@@ -3,7 +3,7 @@ import comments from '~/data/comments'
 </script>
 
 <template lang="pug">
-Block01Section
+Block01Section(m="!t-0")
 CommentSection.pt-10(:dude="comments[0]")
 hr.w-50.inline-flex
 CommentSection(:dude="comments[1]")

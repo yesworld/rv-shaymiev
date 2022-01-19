@@ -29,6 +29,11 @@ section.comment.flex-center
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
+    align-items: center;
+
+    //> img {
+    //  @apply w-xs;
+    //}
 
     b {
       @apply text-4xl m-5;

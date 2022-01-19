@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "vite --port 3333 --open --host",
-    "build": "vite build",
+    "build": "vite build --base=/longreads/shaimiev/",
     "preview": "vite preview",
     "lint": "eslint . --ext=.ts,.vue",
     "test": "vitest"

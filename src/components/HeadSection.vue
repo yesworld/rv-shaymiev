@@ -1,7 +1,3 @@
-<script setup lang="ts">
-// import shaymiev from '~/asserts/images/shaymiev.png'
-</script>
-
 <template lang="pug">
 header(grid="~ cols-1 md:cols-2")
   div.description(m="x-4")
