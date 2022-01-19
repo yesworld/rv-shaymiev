@@ -7,5 +7,7 @@ Block01Section
 CommentSection.pt-10(:dude="comments[0]")
 hr.w-50.inline-flex
 CommentSection(:dude="comments[1]")
+Block02Section
+
 div.h-100.bg-red-100
 </template>

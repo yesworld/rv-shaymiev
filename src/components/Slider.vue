@@ -15,13 +15,19 @@ const props = defineProps({
     type: Array,
     required: true,
   },
+  slideStyle: {
+    type: Object,
+    default: () => ({
+      height: 'auto',
+    }),
+  },
 })
 </script>
 
 <template>
   <carousel :items-to-show="1" :settings='settings'>
     <slide v-for="slide in slides" :key="slide.src">
-      <div class="carousel__item">
+      <div class="carousel__item" :style="slideStyle">
 <!--        <div :style="`background: url('` + slide.src + `')`"></div>-->
 <!--        <div :style="{background: `url(${slide.src})`}"></div>-->
         <img :src="slide.src"/>
@@ -37,7 +43,7 @@ const props = defineProps({
 
 <style lang="scss">
 .carousel__item {
-  height: 600px;
+  //height: 600px;
   //max-height: 800px;
 
   border-radius: 8px;
