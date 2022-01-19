@@ -28,6 +28,21 @@ hr.w-50.inline-flex
 CommentSection(:dude="comments[10]")
 
 Block05Section
+CommentSection(:dude="comments[11]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[12]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[13]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[14]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[15]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[16]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[17]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[18]")
 
 div.h-100.bg-red-100
 </template>
