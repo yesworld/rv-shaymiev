@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const props = defineProps({
+defineProps({
   dude: {
     type: Object,
     required: true,
@@ -9,7 +9,7 @@ const props = defineProps({
 
 <template lang="pug">
 section.comment.flex-center
-  div.grid.grid-cols-3.gap-10
+  div.grid.grid-cols-1.gap-10(md="grid-cols-3")
     div.avatar
       img.rounded-full(:src="dude.src")
       b {{dude.name}}
@@ -30,10 +30,6 @@ section.comment.flex-center
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
-
-    //> img {
-    //  @apply w-xs;
-    //}
 
     b {
       @apply text-4xl m-5;
