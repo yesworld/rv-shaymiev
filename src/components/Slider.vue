@@ -56,11 +56,9 @@ const props = defineProps({
     max-width: 100%;
   }
 }
-
 .carousel__slide {
   padding: 10px;
 }
-
 .carousel__prev,
 .carousel__next {
   @apply bg-blue

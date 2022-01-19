@@ -21,7 +21,7 @@ h3 {
 }
 
 a, a:link, a:visited {
-  @apply text-red;
+  @apply text-red-500;
   text-decoration: none;
 }
 
@@ -30,6 +30,10 @@ p {
 }
 
 hr {
-  @apply m-8 ml-0 h-2 bg-red text-center;
+  @apply m-8 ml-0 h-3 bg-red text-center border-0;
   transform: skew(-20deg);
+}
+
+.quotes {
+  @apply italic
 }

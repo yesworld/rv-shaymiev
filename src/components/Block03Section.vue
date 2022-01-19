@@ -8,13 +8,14 @@ const data = [
 </script>
 
 <template lang="pug">
-section.with-slider.pt-5.flex-center
+section.with-slider.flex-center
   div
     Slider.mb-10(:settings="{itemsToShow: 1}" :slides="data")
 
-    p.mb-10 «Мы сделали ставку на инновационную экономику. Это наш стратегический выбор. Необходимо приложить усилия для того, чтобы вести углубленную переработку нефти и&nbsp;
-      a(href="https://prav.tatarstan.ru/index.htm/news/30505.htm?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews%2Fsearch%3Ftext%3D" target="_blank" rel="nofollow noindex noopener") отойти
-      |  от экспортно ориентированной экономики»
+    div.quotes
+      p.mb-10 «Мы сделали ставку на инновационную экономику. Это наш стратегический выбор. Необходимо приложить усилия для того, чтобы вести углубленную переработку нефти и&nbsp;
+        a(href="https://prav.tatarstan.ru/index.htm/news/30505.htm?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews%2Fsearch%3Ftext%3D" target="_blank" rel="nofollow noindex noopener") отойти
+        |  от экспортно ориентированной экономики»
 </template>
 
 <style lang="scss">

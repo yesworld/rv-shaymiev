@@ -22,13 +22,14 @@ const data = [
 </script>
 
 <template lang="pug">
-section.with-slider.pt-5.flex-center
+section.with-slider.flex-center
   div
     Slider.mb-10(:settings="{itemsToShow: 1}" :slides="data")
 
-    p.mb-10 «
-      a(href="https://rg.ru/2008/08/27/shaimiev.html" target="_blank" rel="nofollow noindex noopener") Опираясь
-      |  на сырьевые ресурсы и традиционно крепкую научную и инженерно-техническую кадровую базу, мы должны формировать новую экономику, диверсифицированную, открытую внешнему миру и способную быть конкурентоспособной в нем»
+    div.quotes
+      p.mb-10 «
+        a(href="https://rg.ru/2008/08/27/shaimiev.html" target="_blank" rel="nofollow noindex noopener") Опираясь
+        |  на сырьевые ресурсы и традиционно крепкую научную и инженерно-техническую кадровую базу, мы должны формировать новую экономику, диверсифицированную, открытую внешнему миру и способную быть конкурентоспособной в нем»
 </template>
 
 <style lang="scss">
