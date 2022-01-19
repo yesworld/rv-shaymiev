@@ -1,10 +1,16 @@
 <script setup lang="ts">
-import comments from '~/data/comments'
-const dude = comments[0]
+import { defineProps } from 'vue'
+
+const props = defineProps({
+  dude: {
+    type: Object,
+    required: true,
+  },
+})
 </script>
 
 <template lang="pug">
-section.comment.pt-5.flex-center
+section.comment.flex-center
   div.grid.grid-cols-3.gap-10
     div.avatar
       img.rounded-full(:src="dude.src")
