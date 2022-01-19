@@ -6,6 +6,7 @@ declare module 'vue' {
   export interface GlobalComponents {
     Block01Section: typeof import('./src/components/Block01Section.vue')['default']
     Block02Section: typeof import('./src/components/Block02Section.vue')['default']
+    Block03Section: typeof import('./src/components/Block03Section.vue')['default']
     CommentSection: typeof import('./src/components/CommentSection.vue')['default']
     Counter: typeof import('./src/components/Counter.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
