@@ -20,6 +20,11 @@ h3 {
   @apply text-3xl;
 }
 
+a, a:link, a:visited {
+  @apply text-red;
+  text-decoration: none;
+}
+
 p {
   @apply text-2xl;
 }
