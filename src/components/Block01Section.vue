@@ -21,9 +21,5 @@ section.with-slider.flex-center
 </template>
 
 <style lang="scss">
-.with-slider {
-  > div {
-    @apply w-9/12;
-  }
-}
+
 </style>

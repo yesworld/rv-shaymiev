@@ -38,6 +38,16 @@ hr {
   @apply italic
 }
 
+.with-slider {
+  @apply bg-blue text-white;
+  padding: 30px 0;
+  margin: 50px 0;
+
+  > div {
+    @apply w-9/12;
+  }
+}
+
 @media (max-width: 900px) {
   h1 {
     @apply text-3xl;

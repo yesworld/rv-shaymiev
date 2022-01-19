@@ -9,13 +9,5 @@ section.with-slider.flex-center
 </template>
 
 <style lang="scss">
-.with-slider {
-  @apply bg-blue text-white;
-  padding: 30px 0;
-  margin: 50px 0;
 
-  > div {
-    @apply w-9/12;
-  }
-}
 </style>
