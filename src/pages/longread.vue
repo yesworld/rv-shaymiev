@@ -46,8 +46,8 @@ CommentSection(:dude="comments[16]")
 hr.w-50.inline-flex
 CommentSection(:dude="comments[17]")
 
-Block06Section
+Block06Section.mb-0
 
-div.h-50
-//.bg-red-100
+div.p-5
+  i @ В проекте использованы фотографии Михаила Козловского и Романа Хасаева
 </template>
