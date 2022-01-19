@@ -30,7 +30,8 @@ const props = defineProps({
       <div class="carousel__item" :style="slideStyle">
 <!--        <div :style="`background: url('` + slide.src + `')`"></div>-->
 <!--        <div :style="{background: `url(${slide.src})`}"></div>-->
-        <img :src="slide.src"/>
+        <img :src="slide.src" />
+        <p v-if="slide.html" v-html="slide.html" class="quotes"></p>
       </div>
     </slide>
 
@@ -43,14 +44,11 @@ const props = defineProps({
 
 <style lang="scss">
 .carousel__item {
-  //height: 600px;
-  //max-height: 800px;
-
-  border-radius: 8px;
-
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+
   > img {
     max-height:100%;
     max-width: 100%;
