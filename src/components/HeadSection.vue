@@ -1,15 +1,13 @@
 <template lang="pug">
-header(grid="~ cols-1 md:cols-2")
-  div.description(m="x-4")
-    div
+header
+  div.logo
+  div.sh-image
+
+  div.description.h-full(sm="w-10\/12", md="w-7\/12")
+    div(m="x-10")
       h1 Минтимеру Шаймиеву — 85 лет
       hr.w-20
       h3 Роль Минтимера Шаймиева в сохранении и становлении промышленности и экономики Татарстана огромна. К юбилею первого президента республики: как строился промышленный Татарстан — в исторических кадрах и цитатах Шаймиева
-
-  div.image(m="x-4")
-    div
-
-div.logo
 </template>
 
 <style lang="scss">
@@ -25,18 +23,27 @@ header {
     align-items: center;
     justify-content: center;
 
+    position: relative;
+    z-index: 1000;
+
     > div {
-      @apply w-10/12;
       display: flex;
       flex-direction: column;
     }
   }
 
-  .image > div {
-      @apply w-full h-full;
-      background: url('/images/shaymiev.png') no-repeat 80% 100%;
-      background-size: 90%;
-    }
+  .sh-image {
+    @apply w-7/12;
+
+    min-height: 100%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+
+    background: url('/images/shaymiev.png') no-repeat 80% 100%;
+    background-size: contain;
+  }
 }
 
 .logo {
@@ -46,5 +53,11 @@ header {
   left: 25px;
   width: 150px;
   height: 32px;
+}
+
+@media (max-width: 900px) {
+  .sh-image {
+
+  }
 }
 </style>
