@@ -10,6 +10,8 @@ CommentSection(:dude="comments[1]")
 
 Block02Section
 CommentSection(:dude="comments[2]")
+hr.w-50.inline-flex
+CommentSection(:dude="comments[19]")
 
 Block03Section
 CommentSection(:dude="comments[3]")
