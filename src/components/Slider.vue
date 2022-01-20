@@ -3,7 +3,7 @@
 import { Carousel, Navigation, Pagination, Slide } from 'vue3-carousel'
 
 // https://ismail9k.github.io/vue3-carousel/examples.html
-const props = defineProps({
+defineProps({
   settings: {
     type: Object,
     default: () => ({
@@ -43,6 +43,9 @@ const props = defineProps({
 </template>
 
 <style lang="scss">
+.carousel__slide {
+  padding: 10px;
+}
 .carousel__item {
   display: flex;
   justify-content: center;
@@ -53,9 +56,6 @@ const props = defineProps({
     max-height:100%;
     max-width: 100%;
   }
-}
-.carousel__slide {
-  padding: 10px;
 }
 .carousel__prev,
 .carousel__next {
