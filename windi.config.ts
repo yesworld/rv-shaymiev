@@ -14,7 +14,7 @@ module.exports = {
     'text-red': 'text-[#e24130]',
     'text-blue': 'text-[#303d4f]',
     'flex-center': 'flex flex-col items-center',
-    // btn: 'py-4 px-4 font-semibold rounded-lg shadow-md',
+    'btn': 'bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full',
     // 'btn-green': 'text-blue bg-green-500 hover:bg-blue-700 !important',
     // btn: {
     //   color: 'white',

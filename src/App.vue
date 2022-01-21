@@ -1,9 +1,10 @@
 <template lang="pug">
-HeadSection
+Block00HeadSection
 
 main
   router-view
 
+  BtnLocale
   //Footer
 </template>
 
