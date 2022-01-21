@@ -15,7 +15,6 @@ section.with-slider.flex-center
 <style lang="scss">
 .with-slider{
   .text{
-
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -25,5 +24,4 @@ section.with-slider.flex-center
     }
   }
 }
-
 </style>

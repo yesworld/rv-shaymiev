@@ -2,19 +2,14 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-// windicss layers
-import 'virtual:windi-base.css'
-import 'virtual:windi-components.css'
-import './styles/main.scss'
-// windicss utilities should be the last style import
-import 'virtual:windi-utilities.css'
-// windicss devtools support (dev only)
-import 'virtual:windi-devtools'
-
+// WindiCss
+import '~/plugins/windicss'
 // vue3-carousel
 import 'vue3-carousel/dist/carousel.css'
+import router from '~/plugins/router'
+import i18n from '~/plugins/i18n'
 
-import router from '~/router'
 const app = createApp(App)
 app.use(router)
+app.use(i18n)
 app.mount('#app')
