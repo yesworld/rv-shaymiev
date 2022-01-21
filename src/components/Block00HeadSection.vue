@@ -1,17 +1,18 @@
 <script setup lang="ts">
-const { t, availableLocales, locale } = useI18n()
-
+const { t } = useI18n()
 </script>
+
 <template lang="pug">
 header
-  div.logo
+  a(href="https://realnoevremya.ru/" target="_blank")
+    div.logo
   div.sh-image
 
   div.description.h-full(sm="w-10\/12", md="w-7\/12")
     div(m="x-10")
-      h1 {{t('title')}}
+      h1 {{t('block-head.title')}}
       hr.w-20
-      h3 Роль Минтимера Шаймиева в сохранении и становлении промышленности и экономики Татарстана огромна. К юбилею первого президента республики: как строился промышленный Татарстан — в исторических кадрах и цитатах Шаймиева
+      h3 {{t('block-head.desc')}}
 </template>
 
 <style lang="scss">
@@ -52,7 +53,8 @@ header {
 
 .logo {
   background: url('/images/logo.svg') no-repeat;
-  position: absolute;
+  z-index: 10000;
+  position: relative;
   top: 15px;
   left: 25px;
   width: 150px;

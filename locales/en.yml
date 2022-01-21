@@ -1,14 +1,14 @@
-title: MIMIMIMIIMII
+block-head:
+  title: 'Mintimer Shaimiev turns 85'
+  desc: "The role of Mintimer Shaimiev in the preservation and development of Tatarstan's industry and economy is enormous. To the anniversary of the first president of the republic: how industrial Tatarstan was built - in historical shots and quotes by Shaimiev"
+
+
+
 button:
-  about: About
-  back: Back
-  go: GO
-  home: Home
-  toggle_dark: Toggle dark mode
-  toggle_langs: Change languages
+  toggle-langs: Change languages
+  short-lang: Ru
+  toggle-dark: Toggle dark mode
 intro:
-  desc: Opinionated Vite Starter Template
-  dynamic-route: Demo of dynamic route
   hi: Hi, {name}!
   whats-your-name: What's your name?
 not-found: Not found

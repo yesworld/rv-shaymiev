@@ -4,16 +4,18 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
+    Block00HeadSection: typeof import('./src/components/Block00HeadSection.vue')['default']
     Block01Section: typeof import('./src/components/Block01Section.vue')['default']
     Block02Section: typeof import('./src/components/Block02Section.vue')['default']
     Block03Section: typeof import('./src/components/Block03Section.vue')['default']
     Block04Section: typeof import('./src/components/Block04Section.vue')['default']
     Block05Section: typeof import('./src/components/Block05Section.vue')['default']
     Block06Section: typeof import('./src/components/Block06Section.vue')['default']
+    BtnLocale: typeof import('./src/components/BtnLocale.vue')['default']
+    CarbonLanguage: typeof import('~icons/carbon/language')['default']
     CommentSection: typeof import('./src/components/CommentSection.vue')['default']
     Counter: typeof import('./src/components/Counter.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
-    HeadSection: typeof import('./src/components/HeadSection.vue')['default']
     Slider: typeof import('./src/components/Slider.vue')['default']
   }
 }
