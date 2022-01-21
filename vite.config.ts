@@ -6,6 +6,8 @@ import Components from 'unplugin-vue-components/vite'
 import AutoImport from 'unplugin-auto-import/vite'
 import WindiCSS from 'vite-plugin-windicss'
 import VueI18n from '@intlify/vite-plugin-vue-i18n'
+import Icons from 'unplugin-icons/vite'
+import IconsResolver from 'unplugin-icons/resolver'
 
 export default defineConfig({
   resolve: {
@@ -31,6 +33,21 @@ export default defineConfig({
     // https://github.com/antfu/vite-plugin-components
     Components({
       dts: true,
+
+      // custom resolvers
+      resolvers: [
+        // auto import icons
+        // https://github.com/antfu/unplugin-icons
+        IconsResolver({
+          componentPrefix: '',
+          // enabledCollections: ['carbon']
+        }),
+      ],
+    }),
+
+    // https://github.com/antfu/unplugin-icons
+    Icons({
+      autoInstall: true,
     }),
 
     // https://github.com/antfu/vite-plugin-windicss
