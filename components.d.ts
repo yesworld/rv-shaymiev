@@ -13,6 +13,8 @@ declare module 'vue' {
     Block06Section: typeof import('./src/components/Block06Section.vue')['default']
     BtnLocale: typeof import('./src/components/BtnLocale.vue')['default']
     CarbonLanguage: typeof import('~icons/carbon/language')['default']
+    CarbonMoon: typeof import('~icons/carbon/moon')['default']
+    CarbonSun: typeof import('~icons/carbon/sun')['default']
     CommentSection: typeof import('./src/components/CommentSection.vue')['default']
     Counter: typeof import('./src/components/Counter.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']

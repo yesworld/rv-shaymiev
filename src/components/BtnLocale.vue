@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { isDark, toggleDark } from '~/composables'
+
 defineEmits(['changeLocation'])
 const { t, availableLocales, locale } = useI18n()
 
@@ -10,9 +12,13 @@ const toggleLocales = () => {
 </script>
 
 <template lang="pug">
-button.btn(:title="t('button.toggle-langs')" @click="toggleLocales")
+button.btn.local(:title="t('button.toggle-langs')" @click="toggleLocales")
   carbon-language
   | {{t('button.short-lang')}}
+
+button.btn.theme(:title="t('button.toggle-dark')" @click="toggleDark")
+  carbon-moon(v-if="isDark")
+  carbon-sun(v-else)
 </template>
 
 <style lang='scss'>
@@ -27,9 +33,16 @@ button.btn {
   align-items: center;
   z-index: 20000;
 
-  > svg {
-    font-size: 25px;
-    margin-right: 15px;
+  &.local {
+    > svg {
+      font-size: 25px;
+      margin-right: 15px;
+    }
+  }
+
+  &.theme {
+    bottom: 85px;
+    font-size: 20px;
   }
 }
 </style>
