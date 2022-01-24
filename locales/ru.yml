@@ -16,11 +16,18 @@ block03:
 block04:
   quotes: '<p>«Энергетика всегда на виду, нужно всегда опережать время, потому что без энергетических мощностей, без их роста ни о каком развитии экономики не может быть и&nbsp;<a href="https://eepir.ru/new/opravdyvaet-nadeghdy/" target="_blank" rel="nofollow noindex noopener">речи</a>»</p><p class="mb-10">«Я&nbsp;<a href="https://www.tatar-inform.ru/news/mintimer-shaymiev-razvitie-energetiki-nailuchshiy-pokazatel-tehnicheskogo-progressa" target="_blank" rel="nofollow noindex noopener">считаю</a> , что развитие энергетики — наилучший показатель технического прогресса»</p>'
 
+block06:
+  title: 'Минтимер Шаймиев в историях'
+  desc: 'Жители Татарстана поделились с «Реальным временем» своими историями о Бабае'
+
+footer:
+  desc: 'В проекте использованы фотографии Михаила Козловского и Романа Хасаева'
 
 button:
   toggle-langs: Сменить язык
   short-lang: Eng
   toggle-dark: Включить темный режим
+  read: Читать
 intro:
   hi: Привет, {name}!
   whats-your-name: Как тебя зовут?

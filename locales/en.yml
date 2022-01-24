@@ -16,10 +16,18 @@ block03:
 block04:
   quotes: '<p>«Energy is always in sight, we must always be ahead of time, because without energy capacities, without their growth, there can be <a href="https://eepir.ru/new/opravdyvaet-nadeghdy/" target="_blank" rel="nofollow noindex noopener">no question</a>»</p><p class="mb-10">«I <a href="https://www.tatar-inform.ru/news/mintimer-shaymiev-razvitie-energetiki-nailuchshiy-pokazatel-tehnicheskogo-progressa" target="_blank" rel="nofollow noindex noopener">believe</a>, that the development of energy is the best indicator of technological progress»</p>'
 
+block06:
+  title: 'Mintimer Shaimiev in stories'
+  desc: 'Tatarstan residents shared their stories about Babay with Realnoe Vremya'
+
+footer:
+  desc: 'Photographs by Mikhail Kozlovsky and Roman Khasaev are used in the project'
+
 button:
   toggle-langs: Change languages
   short-lang: Ru
   toggle-dark: Toggle dark mode
+  read: Read
 intro:
   hi: Hi, {name}!
   whats-your-name: What's your name?

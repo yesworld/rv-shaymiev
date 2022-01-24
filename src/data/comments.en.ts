@@ -97,91 +97,90 @@ export default [
     position: 'Director General of Ak Bars Shipbuilding Corporation JSC',
     src: 'images/avatars/11 mistahov.jpg',
   }, { // 10
-    name: 'Татьяна Ларионова',
-    text: '\tГлубокоуважаемый Минтимер Шарипович!\n'
-        + '\tОт всего сердца примите самые добрые поздравления с Вашим юбилеем!\n'
-        + '\tС Вашим именем связана целая эпоха современной истории России.\n'
-        + '\tС Вашим именем неразрывны духовность, благотворительность, возрождение, наследие и беззаветная любовь к родной земле.\n'
-        + '\tС Вашим именем связан Татарстан!\n'
-        + '\tМир и стабильность, межконфессиональное и межнациональное согласие благодаря Вам обрели в республике истинное содержание и настоящий смысл.\n'
-        + '\tБыть рядом с Вами и вместе работать — это счастье и награда, которые дарованы судьбой всем, кто стал частью Возрождения нашей истории, истории нашей республики! Всем, для кого развитие Татарстана стало главной созидательной целью.\n'
-        + '\tДля меня лично, уверена, как и для многих других, чрезвычайно важно ощущать, как Вы цените семейные ценности. Заботливый сын, любящий муж, внимательный отец, дед, прадед. Гранд Бабай — так Вас сейчас называют близкие! И как же Вы гордитесь этим званием!\n'
-        + '\tВаши отношения с незабываемой Сакиной Шакировной для многих останутся образцом настоящей любви, потрясающей верности и преданности.\n'
-        + '\tВы, уважаемый Минтимер Шарипович, — мой главный учитель, наставник, мудрый, благородный и талантливый руководитель.\n'
-        + '\tСпасибо за ежедневные уроки жизни!\n'
-        + '\tВосхищаюсь молодостью вашей души, мудростью и внутренним обаянием, любовью к миру и умению наслаждаться каждым прожитым днем.\n'
-        + '\tОт всей души желаю Вам, уважаемый Минтимер Шарипович, долгие-долгие годы здоровья, созидания, реализации всех задуманных проектов, благополучия во всем и всегда.\n'
-        + '\tПусть Ваш ангел-хранитель придает Вам много новых сил, энергии, активного долголетия.\n'
-        + '\tС глубоким уважением,\n'
-        + '\tвсегда Ваша Татьяна\n',
-    position: 'Депутат Госдумы РФ, исполнительный директор Республиканского фонда возрождения памятников истории и культуры РТ',
+    name: 'Tatiana Larionova',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tAccept the kindest congratulations on your jubilee.\n'
+        + '\tThe whole era of Russia’s modern history is linked with your name.\n'
+        + '\tSpirituality, charity, renaissance, heritage and devotion to the homeland are linked with your name.\n'
+        + '\tTatarstan is linked with your name.\n'
+        + '\tPeace and stability, interfaith and interethnic harmony gained real meaning and real significance in the republic thanks to you. Being with you and working with you is happiness and the fate’s gift given to everybody who became a part of the renaissance of our history, the history of our republic, to everybody for whom the development of Tatarstan became a creative goal.\n'
+        + '\tFor me and many others, I believe, it is extremely important to feel that you appreciate family values. You are a caring son, loving husband, attentive father, grandfather, great-grandfather. Great granddad, this is how your loved ones call you now. And how proud you are of this title. Your relations with unforgettable\n'
+        + '\tMr Shaimieva will become an example of true love, amazing loyalty and devotion for many.\n'
+        + '\tYou, dear Mr Shaimiev, is my main teacher, mentor, a wise, noble and talented manager.\n'
+        + '\tThanks for your daily life lessons.\n'
+        + '\tI admire the youth of your soul, wisdom and internal charm, love for the world and the skill of enjoying every day.\n'
+        + '\tI sincerely wish you, dear Mr Shaimiev, many years of health, creation, implementation of all planned projects, well-being in everything and always.\n'
+        + '\tMight your guardian angel give you a lot of new power, energy, active longevity.\n'
+        + '\tSincerely yours,\n'
+        + '\tYour Tatiana\n',
+    position: 'Russian State Duma deputy, Executive Director of the Republican Fund for the Revival of Historical and Cultural Sites',
     src: 'images/avatars/12 ларионова2.jpg',
   }, { // 11
     name: 'Талия Минуллина',
-    text: '\tДорогой Минтимер Шарипович!\n'
-        + '\tКогда мы видимся и я смотрю в Ваши глаза, в них не только мудрость прожитых лет, а прежде всего молодой задор, игра новых замыслов, такие мощные искры энергии, невероятная глубина и гармония личности. Счастлива, что мне довелось жить с Вами в одну эпоху — сложную эпоху перемен, которые Вы вершили и еще, уверена, будете вершить!\n'
-        + '\tЖелаю Вам в этот юбилей получить удовольствие от искренних поздравлений, воспоминаний и теплых чувств. Здоровья и энергии на долгие годы! Безусловно, новых проектов и уникальных идей! И пусть как можно чаще у Вас будет повод для приятного удивления!\n'
-        + '\tС восхищением,\n'
-        + '\tТалия Минуллина\n',
-    position: 'Руководитель АИР РТ',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tWhen we meet and I look into your eyes, I see not only the wisdom of the years you have lived but first of all the juvenile vitality, game of new ideas, such huge sparks of energy, incredible depth and harmony of the individual. I am happy to live in the same era with you, a difficult era of changes that you have made and, I am sure, you will make.\n'
+        + '\tOn this jubilee, I hope that you enjoy sincere congratulations, memories and warm feelings. Health and energy for many years. Undoubtedly, new projects and unique ideas.\n'
+        + '\tAdmiringly,\n'
+        + '\tTaliya Minullina\n',
+    position: 'Head of the Tatarstan Investment Development Agency',
     src: 'images/avatars/14 Minullina.jpg',
   }, { // 12
-    name: 'Альберт Султеев',
-    text: '\tУважаемый Минтимер Шарипович!\n'
-        + '\tОт имени многочисленного коллектива ООО «ТАИФ-НК АЗС» прошу принять искренние поздравления по случаю Вашего юбилея!\n'
-        + '\tВаше имя было и остается неотъемлемой и яркой частью истории развития нашей любимой республики. Благодаря Вашим решениям был осуществлен ряд важнейших преобразований, а прорыв в различных областях позволил сформировать современный облик Республики Татарстан.\n'
-        + '\tБлагодарим Вас за неизменное внимание к процессам освоения новых проектов в нефтеперерабатывающей отрасли, потребностям и нуждам современного общества, непрерывного образования, творчества, спортивной активности, научной и общественной деятельности.\n'
-        + '\tВ этот праздничный день искренне желаем Вам, уважаемый Минтимер Шарипович, крепкого здоровья, мира и благополучия, дальнейших успехов, побед и свершений во благо Республики Татарстан и ее народа!\n',
-    position: 'Генеральный директор ООО «ТАИФ-НК АЗС»',
+    name: 'Albert Sulteyev',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tOn behalf of the numerous staff of TAIF-NK AZS PLC, accept our sincere congratulations on your jubilee.\n'
+        + '\tYour name has been an indispensable and bright part of the history of the development of our favourite republic. A number of important transformations were made thanks to your decisions, while the breakthrough in different areas allowed creating the modern image of the Republic of Tatarstan.\n'
+        + '\tWe thank you for the unchangeable attention paid to mastering new projects in the oil processing sector, the needs and requirements of modern society, continuous education, art, sport, scientific and public activity.\n'
+        + '\tOn this festive day, we sincerely wish you, dear Mr Shaimiev, strong health, peace and well-being, further successes, victories and accomplishments for the good of the Republic of Tatarstan and its people.\n',
+    position: 'Director General of TAIF-NK AZS PLC',
     src: 'images/avatars/14 таиф2 Султеев.JPG',
   }, {
-    name: 'Аида Волкова',
-    text: '\tУважаемый Минтимер Шарипович!\n'
-        + '\tОт имени Банка «Аверс» поздравляю Вас с 85-летним юбилеем!\n'
-        + '\tВаше многолетнее служение Республике Татарстан, Ваши инициативы, житейская мудрость, взвешенность в словах и государственных делах снискали Вам искреннее уважение со стороны руководства Российской Федерации и всенародное почитание.\n'
-        + '\tС Вашим именем связана целая эпоха в становлении нашей республики и России в целом. В глазах нашей большой страны Вы — мудрый руководитель и политик, заложивший основы для процветания Татарстана, его экономической мощи, конфессионального согласия и толерантности.\n'
-        + '\tОт всей души желаю Вам, Вашим родным и близким крепкого здоровья, вдохновения и энергии для продолжения Вашей деятельности по восстановлению истории народа, возрождению исторических памятников, сохранению национальной культуры и реализации всех Ваших замечательных идей по уникальным образовательным и культурным проектам!\n',
-    position: 'Председатель Правления Банка «Аверс»',
+    name: 'Aida Volkova',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tOn behalf of Avers Bank I congratulate you on your 85th jubilee.\n'
+        + '\tYour long-term service to the Republic of Tatarstan, your initiatives, worldly wisdom, well-thought-out words and public affairs provided you with sincere respect of the administration of the Russian Federation and popular esteem.\n'
+        + '\tA whole era is linked with your name in the formation of our republic and Russia in general. In the eyes of our big country, you are a wise manager and politician who laid the foundation for the prosperity of Tatarstan, its economic power, interfaith harmony and tolerance.\n'
+        + '\tI sincerely wish you, your nearest and dearest strong health, inspiration and energy to continue your activity on the restoration of the history of the people, revival of historical sites, conservation of the national culture and implementation of all our great ideas in unique educational and cultural projects.\n',
+    position: 'Board Chairwoman of Avers Bank',
     src: 'images/avatars/15 аверс Волкова А.Н_.jpg',
   }, { // 14
-    name: 'Владимир Гинсбург',
-    text: '\tУважаемый Минтимер Шарипович!\n'
-        + '\tПримите самые теплые поздравления с юбилеем от всего коллектива Казанского вертолетного завода и от меня лично!\n'
-        + '\tВы заложили фундамент социально-экономического роста и благополучия нашей республики. Вас знают и ценят как мудрого политика и признанного лидера не только в России, но и далеко за ее пределами. Будучи Государственным Советником Республики Татарстан и председателем попечительского совета Республиканского фонда «Возрождение», Вы внесли огромный вклад в дело восстановления исторических святынь — острова-града Свияжска, Великого Болгара, собора Казанской иконы Божией Матери. Кроме того, невозможно переоценить значение проекта по созданию в Татарстане уникальных полилингвальных общеобразовательных комплексов, который реализуется по Вашей инициативе. Ваш труд как пример самоотверженного служения своей Родине вызывает искреннее восхищение.\n'
-        + '\tКазанский вертолетный завод всегда будет благодарен Вам за ту поддержку, которую Вы неизменно оказывали на разных этапах развития предприятия. Вы одним из первых оценили потенциал вертолета «Ансат», созданного с нуля казанскими вертолетостроителями, и поверили в будущий успех этой винтокрылой машины.  А сегодня «Ансат» стал флагманом развития санитарной авиации и уже вышел на внешние рынки.\n'
-        + '\tЖелаю Вам крепкого здоровья, активного долголетия, душевной гармонии, счастья и благополучия!\n',
-    position: 'Генеральный директор АО «Казанский вертолетный завод»',
+    name: 'Vladimir Ginsburg',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tAccept the warmest congratulations on the jubilee on the behalf of all the staff of Kazan Helicopters.\n'
+        + '\tYou laid the foundation for the socio-economic growth and well-being of our republic. You are known as a wise politician and recognised leader not only in Russia but also abroad. As a state adviser to the Republic of Tatarstan and chairman of the Board of Trustees of the Republican Renaissance Fund, you have made a huge contribution to the restoration of historical holy sites – the island town of Sviyazhsk, Great Bolgar, the Kazan Cathedral. Also, it is impossible to overestimate the meaning of the project on the creation of unique multilingual educational complexes in Tatarstan, which is implemented on your initiative. Your labour as an example of dedicated service to the homeland causes sincere admiration.\n'
+        + '\tKazan Helicopters will always be grateful to you for the support you have provided at different development stages of the enterprise. You were one of the first to evaluate the potential of Ansat helicopter created by Kazan helicopter engineers from scratch and believed in the future success of this machine. While today Ansat became the flagship of air ambulance and already entered foreign markets.\n'
+        + '\tI wish you strong health, active longevity, harmony, happiness and well-being.\n',
+    position: 'Director General of Kazan Helicopters JSC',
     src: 'images/avatars/16 квз V_Ginsburg.jpg',
   }, {
-    name: 'Шамиль Агеев',
-    text: '\tПоздравляя Минтимера Шариповича с юбилеем, хочется подчеркнуть, что именно благодаря ему наша республика получила больше полномочий. Он сохранил руководящие кадры и управляемость республикой. При нем продолжило развитие сельское хозяйство и сохранили свою работоспособность такие крупные промышленные объекты, как КАМАЗ, «Нижнекамскнефтехим», «Оргсинтез», авиационный комплекс, вертолетное производство и другие. Сегодня все это забывается и многим кажется, будто все само собой происходило. Но об этом нужно помнить и знать.\n'
-        + '\tПри Шаймиеве началось преображение Казани, стартовала первая в России программа переселения из ветхого жилья. Большой, можно так сказать — «Шаймиевский фактор» — это продвижение на внешние рынки, узнаваемость Татарстана в мире и изучение передового международного опыта. Это дорогого стоит. В том, что сейчас Татарстан узнаваем везде, — это большая заслуга Минтимера Шариповича.\n'
-        + '\tЯ желаю Минтимеру Шариповичу всегда сохранять присущее ему чувство юмора, новаторский подход и на все смотреть с точки зрения перспективы.\n',
-    position: 'Председатель Союза «Торгово-промышленная палата Республики Татарстан»',
+    name: 'Shamil Ageyev',
+    text: '\tCongratulating Mr Shaimiev on his jubilee, I would like to stress that precisely thanks to him our republic got more power. He saved the leadership and the manageability of the republic. Agriculture continued to develop under him, such industrial facilities as KAMAZ, Nizhnekamskneftekhim, Orgsintez, the aviation complex, helicopter engineering and others saved their effectiveness. Today all this is forgotten, and it seems to many people that everything happened on its own. But this should be remembered and known.\n'
+        + '\tKazan started to transform, Russia’s first dilapidated housing programme started under Shaimiev. The big, so-called “Shaimiev factor” is the promotion to foreign markets, recognisability of Tatarstan in the world and learning the latest international experience. This means a lot. It is Mr Shaimiev’s big merit that today Tatarstan is recognised everywhere.\n'
+        + '\tI hope Mr Shaimiev saves his sense of humour, innovative approach and looks at everything as a prospect.\n',
+    position: 'Chairman of the Union Tatarstan Chamber of Commerce and Industry',
     src: 'images/avatars/17 Агеев.jpg',
   }, { // 16
-    name: 'Эдуард Галеев',
-    text: '\tУважаемый Минтимер Шарипович!\n'
-        + '\tКоллектив АО «ТГК-16» со всей теплотой поздравляет Вас с юбилеем! Спасибо за прекрасную историю нашей республики и за то, что Вы продолжаете делать на благо нашего региона по сей день. Нынешний высокий статус Татарстана сложился во многом благодаря Вашим усилиям, Вашему таланту организатора и стратега.\n'
-        + '\tЛегендарная фраза «Без булдырабыз!» («Мы можем!») — фактически негласный девиз татарстанцев. Эта черта наиболее ярко характеризует и Вас. Настроить всех на нужный лад, сфокусироваться на важном, увидеть в проблемах точки роста и задавать темпы — Ваше мастерство восхищает!\n'
-        + '\tВы заложили прочную основу развития промышленности Татарстана и энергетической отрасли, создали основу и условия для развития новых проектов, появления новых мощностей.\n'
-        + '\tОт всей души, Минтимер Шарипович, мы желаем Вам в день юбилея крепкого здоровья, долгих лет жизни, дальнейших успехов в Вашей деятельности. Пусть всегда Вас окружают теплом и заботой родные и близкие Вам люди!\n',
-    position: 'Генеральный директор АО «ТГК-16»',
+    name: 'Eduard Galeyev',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tThe staff of TGC-16 JSC warmly congratulates you on your jubilee. Thanks for the amazing history of our republic and for what you continue doing for the good of our republic today. Tatarstan’s current high status was obtained mainly thanks to your efforts, your talent as organiser and strategist.\n'
+        + '\tThe legendary phrase “We can!” is almost the unofficial slogan of Tatarstan residents. This feature characterises you better. To get everybody on the right track, focus on important things, see growth points in problems and set the pace – your prowess is amazing.\n'
+        + '\tYou laid the firm foundation for the development of Tatarstan’s industry and energy, created the basis and conditions to develop new projects, create new capacities.\n'
+        + '\tMr Shaimiev, on your jubilee day, we sincerely wish you good health, many years of life, success in your activity. Might your family and friends surround you always with warmth and care.\n',
+    position: 'Director General of TGC-16 JSC',
     src: 'images/avatars/18 Галеев ТГК-16.jpg',
   }, { // 17
-    name: 'Николай Савицких',
-    text: '\tУважаемый Минтимер Шарипович!\n'
-        + '\tОт имени многотысячного коллектива Казанского авиационного завода им. С.П. Горбунова — филиала ПАО «Туполев»  и от себя лично сердечно поздравляю Вас с 85-летием!\n'
-        + '\tВаш жизненный путь является истинным примером служения Отчизне. Человек большого таланта, любящий родную землю и живущий интересами страны, — с Вашим именем связано множество успешно реализованных программ. Ваше твердое, нерушимое слово, способность видеть впереди перспективы и находить в себе силы их достигать способствуют постоянному процветанию Республики Татарстан.\n'
-        + '\tМы признательны за оказываемую поддержку в развитии самолетостроения в республике и оборонно-промышленного комплекса страны в целом, в частности за активное участие в жизни Казанского авиационного завода. Вы в трудное для предприятия и страны время смогли сделать самое важное — сохранить авиационный завод в Казани и способствовать его дальнейшему развитию. Сегодня самолеты марки «Ту» по праву считаются одними из эффективных  и мощных  воздушных судов,  которые дополняют силу гражданско-оборонной промышленности страны. Следуя основным принципам Вашей работы и полагаясь на них, на созданном в те годы фундаменте мы продолжаем развивать и укреплять мощь предприятия. На сегодняшний день нам удалось возобновить воспроизводство самого крупного в истории военной авиации сверхзвукового ракетоносца Ту-160М. Вы, бесспорно, являетесь одним из самых уважаемых нашим коллективом государственных деятелей, политиков. Всеобщее уважение к Вам — истинно и заслуженно.\n'
-        + '\tОт всей души желаем Вам, уважаемый Минтимер Шарипович, крепкого здоровья, успешных свершений, абсолютной реализации идей и планов! Пусть каждое мгновение, каждый час и каждый день будут счастливыми, результативными и невероятно интересными! Семейного тепла и уюта в Ваш дом!\n',
-    position: 'Первый заместитель управляющего директора ПАО «Туполев» –  директор филиала',
+    name: 'Nikolay Savitskikh',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tOn behalf of thousands of workers of the Gorbunov Kazan Aviation Plant, the branch of Tupolev PJSC, I cordially congratulate you on your 85th birthday.\n'
+        + '\tYour life journey is a true example of service to the homeland. You are a very talented person who loves his homeland and lives and breathes the country’s interests. A myriad of successfully implemented programmes is associated with your name. Your word of honour, the ability to see prospects first and find the strength to reach them favour the constant prosperity of the Republic of Tatarstan.\n'
+        + '\tWe are grateful for the support provided in the development of aircraft engineering in the republic and the country’s Defence and Industrial Complex. During the tough times for the enterprise and country, you managed to do the most important thing – to save the aviation plant in Kazan and facilitate its further development. Today the Tu planes are rightly considered one of the most effective and powerful aircraft that complement the power of the civil defence industry of the country. We continue developing and strengthening the enterprise’s power following key principles of your work and resting on them, on the foundation created during those years. Nowadays we have managed to resume the production of the largest supersonic missile carrier Tu-160M in the history of military aviation. Without doubt, you are one of the statesmen, politicians our staff respects. The universal respect for you is true and deserved.\n'
+        + '\tWe sincerely wish you, dear Mr Shaimiev, strong health, successful accomplishments, implementation of ideas and plans. Might every instant, every hour and every day be happy, productive and incredibly interesting. Family warmth and cosiness for your home.\n',
+    position: 'First Vice Executive Director of Tupolev PJSC, Director of the branch',
     src: 'images/avatars/19 KAPO.jpg',
   }, {
-    name: 'Ильшат Аминов',
-    text: '\tДля меня Минтимер Шарипович – это Отец нации: человек, который сыграл гигантскую роль в становлении современного Татарстана. За всю свою жизнь он столько сделал для народа! Только за одну программу ликвидации ветхого жилья ему уже можно было ставить памятник. А были еще такие важные проекты, как газификация, программа ускоренного экономического роста республики, тысячелетие города Казани, возрождение Болгара и Свияжска, восстановление собора Казанской иконы Божией Матери, создание Болгарской академии и многие другие. Такие грандиозные и важные для всего народа проекты могут создавать только люди-титаны: титаны духа, силы и воли.\n'
-        + '\tЯ счастлив, что живу и работаю с Минтимером Шаймиевым в одно время. Желаю ему много энергии для созидания, чтобы народная любовь давала ему сил на реализацию всего задуманного, большого здоровья и благополучия!\n',
-    position: 'Генеральный директор телерадиокомпании «Новый Век», депутат Государственного Совета Республики Татарстан, председатель Союза журналистов Республики Татарстан',
+    name: 'Ilshat Aminov',
+    text: '\tFor me, Mr Shaimiev is the father of the nation, a person who played a gigantic role in the life of modern Tatarstan. He has done so much for the people throughout his life. A monument to him can be placed for the dilapidated housing programme alone. While there have been such important projects as gasification, the republic’s acceleration economic growth programme, the millennium of Kazan, the revival of Bolgar and Sviyazhsk, restoration of the Kazan Cathedral, the creation of Bolgar Academy and many others. Such grandiose projects that are important for the people can be created only by titans: titans of spirit, power and will.\n'
+        + '\tI am happy to live and work during Mr Shaimiev’s era. I wish him a lot of energy for creation so that popular love will give him the power to implement all his plans, good health and well-being.\n',
+    position: 'Director General of Novy Vek TV and Radio Company, Tatarstan State Council deputy, Chairman of the Tatarstan Union of Journalists',
     src: 'images/avatars/20 Aminov.jpg',
   }, { // 19
     name: 'Albert Shigabutdinov',

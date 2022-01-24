@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import ruComments from '~/data/comments.ru'
 import enComments from '~/data/comments.en'
-const { locale } = useI18n()
+const { locale, t } = useI18n()
 
 const comments = computed(() => {
   return locale.value === 'ru' ? ruComments : enComments
@@ -57,5 +57,5 @@ CommentSection(:dude="comments[17]")
 Block06Section.mb-0
 
 div.p-5
-  i @ В проекте использованы фотографии Михаила Козловского и Романа Хасаева
+  i @ {{t('footer.desc')}}
 </template>
