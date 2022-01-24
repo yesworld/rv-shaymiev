@@ -63,37 +63,38 @@ export default [
     position: 'Director General of TAIF-NK JSC',
     src: 'images/avatars/7- таиф1.jpg',
   }, { // 6
-    name: 'Айрат Фаррахов',
-    text: '\tГлубокоуважаемый Минтимер Шарипович!\n'
-        + '\tПримите мои поздравления с 85-летием. Эта дата — важное событие не только для Вас, но и для всего Татарстана, поскольку Вы — выдающийся государственный деятель, сыгравший настолько огромную роль в новейшей истории родной республики, татарского народа, что ее просто невозможно переоценить.\n'
-        + '\tВаши мудрые советы, поддержка были исключительно важны для меня на всех этапах моей карьеры — в периоды работы хирургом, затем заместителем главного врача РКБ, начальником Управления здравоохранения исполкома г. Казани, министром здравоохранения РТ. Они помогли мне принять трудное решение на крутом повороте судьбы, когда я получил приглашение работать в федеральном правительстве в Москве. Колебания были очень сильными, но Вы однажды в разговоре как бы невзначай бросили такую фразу: «Обрати внимание на тех, кто переезжает. Это сильные люди». Фраза стала для меня ключевой, и я затем ни разу не пожалел о принятом решении.\n'
-        + '\tБольшое спасибо Вам, глубокоуважаемый Минтимер Шарипович, за все, что Вы для меня сделали! Я исключительно высоко ценю возможность обратиться за советом к такому мудрому, способному заглянуть за горизонт человеку, как Вы.\n'
-        + '\tОт всей души желаю Вам в добром здравии, полным сил, энергии и новых продуктивных идей отметить еще много знаменательных дат.\n',
-    position: 'Депутат Государственной Думы РФ',
+    name: 'Ayrat Farrakhov',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tAccept my congratulations on your 85th birthday. This date is a milestone not only for you but also for all Tatarstan, since you are an outstanding statesman who has played such a huge role in the modern history of our republic, the Tatar people that simply cannot be overestimated.\n'
+        + '\tYour wise advice, support have been exceptionally important for me at all stages of my career – when I worked as a surgeon, then vice chief doctor of Republican Clinical Hospital, head of the Health Care Office of the Kazan Executive Committee, Tatarstan health care minister. They helped me to make a tough decision during the U-turn in my fate when I received an invitation to work in the federal government in Moscow. I seriously hesitated, but once in a talk you unexpectedly uttered such a phrase: “Look at those who go. They are strong people.” This phrase became key for me, and then I have never regretted the decision I made.\n'
+        + '\tMany thanks, dear Mr Shaimiev for everything you have done for me. I highly appreciate the opportunity to ask such a wise, far-sighted person as you for advice.\n'
+        + '\tI sincerely wish you good health, power, energy, new and productive ideas and much more milestones.\n',
+    position: 'Russian State Duma deputy',
     src: 'images/avatars/8 фаррахов.jpg',
   }, { // 7
-    name: 'Айрат Сафин',
-    text: '\tГлубокоуважаемый Минтимер Шарипович!\n'
-        + '\tПримите сердечные поздравления со знаменательным и важным событием в Вашей жизни — 85-летием со дня рождения. Разделяя с Вами все лучшие чувства и настроения в этот день, от всей души желаю Вам доброго здоровья, благополучия, успехов во всех благих делах и начинаниях!\n'
-        + '\tВ нашей республике Вас знают как эффективного руководителя, обладающего энергичным и твердым подходом к решению масштабных и ответственных задач. Вы посвятили свою жизнь Республике Татарстан, ее процветанию и благополучию. Став первым Президентом Татарстана, Вы внесли огромный вклад в его социально-экономическое развитие. Сегодня Ваш огромный творческий потенциал и умение увлечь людей находят великолепное применение в благородном деле по сохранению уникального исторического наследия республики. За Вашими плечами яркий жизненный путь, Вам есть чем гордиться, и это — стимул для движения к новым горизонтам.\n'
-        + '\tОт всей души желаю Вам неиссякаемой энергии и возможности еще много-много лет жить и творить в полную силу. Пусть каждый новый день дарит Вам много ярких, приятных мгновений!',
-    position: 'Генеральный директор ПАО «Нижнекамскнефтехим»',
+    name: 'Ayrat Safin',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tAccept my cordial congratulations on the remarkable and important event in your life, your 85th birthday. Sharing all the best feelings and moods with you on this day, I sincerely wish you good health, well-being, success in all good deeds and undertakings.\n'
+        + '\tIn our republic, you are known as an effective manager who has an energetic and firm approach to performing big and responsible tasks. You have dedicated your life to the Republic of Tatarstan, its prosperity and well-being. By becoming the first Tatarstan president, you made a huge contribution to its socio-economic development. Today your huge creative potential and ability to captivate people are amazingly used in the noble job done to conserve the unique historical heritage of the republic. You have a brilliant life behind you, you have what to be proud of, and this is a stimulus to move to new vistas.\n'
+        + '\tI sincerely wish you inexhaustible energy and the ability to live and create at full capacity for many years to come. Might every new day present you with a lot of bright, pleasant instants.\n',
+    position: 'Director General of Nizhnekamskneftekhim PJSC',
     src: 'images/avatars/9 нкнх САФИН.jpg',
   }, { // 8
-    name: 'Сергей Когогин',
-    text: '\tУважаемый Минтимер Шарипович!\n'
-        + '\tПримите искренние поздравления по случаю знаменательного события в Вашей жизни — 85-летия!\n'
-        + '\tВаш жизненный путь пронизан верностью татарстанской земле, а с Вашим именем по праву связано начало новой эпохи в истории нашей республики, в масштабных преобразованиях, в изменении вектора дальнейшего развития. И потому, встречая эту солидную дату, Вы вправе гордиться результатами своей профессиональной и общественной деятельности.\n'
-        + '\tУверенными действиями и решениями Вы заложили фундаментальные основы, на которых сегодня созидаются новые успехи. Ваш колоссальный вклад в становление государственности Татарстана, социально-экономическое развитие и укрепление межнациональных отношений навеки вписан в национальную историю. Добившись высоких целей, Вы изменили к лучшему жизнь миллионов соотечественников. Ваши реформаторские шаги останутся в столетиях и будут служить эталоном преданности родной земле.\n'
-        + '\tПо случаю юбилея от имени всех камазовцев желаю Вам крепкого здоровья, семейного счастья и благополучия! Пусть каждый новый день будет наполнен светом и добром, станет новым шагом на пути к исполнению Ваших личных планов и проектов на благо республики.',
-    position: 'Генеральный директор ПАО «КАМАЗ»',
+    name: 'Sergey Kogogin',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tAccept my sincere congratulations on the remarkable event in your life, your 85th birthday.\n'
+        + '\tYour life is imbued with loyalty to the Tatarstan land, while the beginning of a new era in the history of our republic, large-scale transformations, a change in the vector of further development are rightly linked with your name. Therefore, welcoming this respectable date, you have the right to be proud of the results of your professional and public activity.\n'
+        + '\tYou laid the foundation new successes are created on today with confident actions and decisions. Your colossal contribution to the formation of the statehood of Tatarstan, socio-economic development and reinforcement of interethnic relations will be in the national history for centuries. After achieving big goals, you changed the lives of millions of compatriots for the better. Your reformist steps will be remembered for centuries and serve as a model of loyalty to the homeland.\n'
+        + '\tOn the occasion of your jubilee, on behalf of all KAMAZ workers, I wish you strong health, family happiness and well-being. Might every new day be full of light and kindness, become a new step to make your plans and projects a reality for the good of the republic.\n',
+    position: 'Director General of KAMAZ PJSC',
     src: 'images/avatars/10 камаз.jpg',
   }, { // 9
-    name: 'Ренат Мистахов',
-    text: '\tУважаемый Минтимер Шарипович! От имени многотысячного коллектива АО «Судостроительная Корпорация «Ак Барс» и себя лично сердечно поздравляю Вас с замечательным юбилеем!\n'
-        + '\tВсего, что Вы сделали для Татарстана, не перечислить. На современной политической арене в России Вы один из немногих, кто на стыке эпох сумел сохранить в республике и стабильность, и преемственность власти, — и продолжаете неустанно работать, генерируя новые идеи, воплощая в жизнь все более грандиозные проекты. Особые слова благодарности хотелось бы выразить Вам за поддержку Зеленодольского завода имени А.М. Горького, ставшего в дальнейшем основополагающим звеном АО «Судостроительная Корпорация «Ак Барс» — флагмана промышленного блока АО «Холдинговая компания «Ак Барс». Зеленодольские корабелы ощущали Ваши заботу и участие весь период нахождения Вас за штурвалом республиканской власти. И после того, как Вы стали Государственным Советником Республики Татарстан, Вы не забываете зеленодольских корабелов и являетесь для нас всегда желанным и почетным гостем.\n'
-        + '\tВ этот праздничный день примите самые искренние пожелания крепкого здоровья на долгие годы, неиссякаемого оптимизма и душевной гармонии! Пусть в Вашем доме всегда царят мир и уют, а семейный очаг будет согрет теплом и любовью. Счастья и благополучия Вам и Вашим близким!',
-    position: 'Генеральный директор АО «Судостроительная корпорация «Ак Барс»',
+    name: 'Renat Mistakhov',
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tOn behalf of thousands of workers of Ak Bars Shipbuilding Corporation JSC, I cordially congratulate you on the amazing jubilee.\n'
+        + '\tWhat you have done for Tatarstan cannot be enumerated. On the modern political stage in Russia, you are one of the few who managed to save both stability and power succession in the republic on the cusp of eras and continue to tirelessly work generating new ideas, turn more grandiose projects into a reality. I would like to express my gratitude for your support for the Gorky Zelenodolsk Plant, which later became the major link of Ak Bars Shipbuilding Corporation JSC, the industrial flagship of Ak Bars Holding Company JCS. Zelenodolsk shipbuilders felt your care and involvement when you were at the helm of the republican power. And after you became the state adviser to the Republic of Tatarstan, you don’t forget the Zelenodolsk shipbuilders and you are always our expected and honourable guest.\n'
+        + '\tOn this festive day, accept the most sincere wishes of strong health for many years, inexhaustible optimism and harmony. Might peace and cosiness reign in your home, might your hearth and home be heated with warmth and love. Happiness and well-being for you and your loved ones.\n',
+    position: 'Director General of Ak Bars Shipbuilding Corporation JSC',
     src: 'images/avatars/11 mistahov.jpg',
   }, { // 10
     name: 'Татьяна Ларионова',

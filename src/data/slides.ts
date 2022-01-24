@@ -47,7 +47,7 @@ const block4 = [
   { src: 'images/block4/03_Рабочая поездка в Нижнекамский район, 1 августа 2007.jpg' },
 ]
 
-const block5 = [
+const block5Ru = [
   {
     src: 'images/block5/01.jpg',
     html: 'Владимир Путин: «Должен <a href="http://www.allsportinfo.ru/index.php?id=40249" target="_blank" rel="nofollow noindex noopener">сказать</a>, что очень много для развития Татарстана, для экономики Татарстана, социальной сферы, для спорта сделал первый президент Татарстана Минтимер Шарипович Шаймиев»',
@@ -70,4 +70,27 @@ const block5 = [
   },
 ]
 
-export { block1, block2, block3, block4, block5 }
+const block5En = [
+  {
+    src: 'images/block5/01.jpg',
+    html: 'Vladimir Putin: «I <a href="http://www.allsportinfo.ru/index.php?id=40249" target="_blank" rel="nofollow noindex noopener">have to say</a>, that first President Mintimer Shaimiev has done a lot for the development of Tatarstan, the economy of Tatarstan, the social sphere, for sport»',
+  },
+  {
+    src: 'images/block5/02.jpg',
+    html: 'Dmitry Medvedev: «Mr Shaimiev was one of the strongest Russian regional leaders in the 90s. It is a person who tried to achieve the maximum results for Tatarstan during quite a tough period, and he <a href="https://news.rambler.ru/politics/35883983-r24-medvedev-nazval-shaymieva-odnim-iz-naibolee-silnyh-rukovoditeley-rossiyskih-regionov/" target="_blank" rel="nofollow noindex noopener">did it</a>»',
+  },
+  {
+    src: 'images/block5/03.jpg',
+    html: 'Rustam Minnikhanov: «I personally want to say thanks to Mr Shaimiev, not as a president but personally. You are our <a href="https://realnoevremya.ru/news/185240-na-rodine-shaymieva-otkryli-byust-pervomu-prezidentu-tatarstana">teacher</a>»',
+  },
+  {
+    src: 'images/block5/05-1.JPG',
+    html: 'Naina Yeltsina: «He is <a href="https://realnoevremya.ru/news/167494-naina-elcina-shaymiev---eto-chelovek-legenda">a great</a>, amazing person. Boris Yeltsin always respected him, asked him for advice. He considered Tatarstan was in safe hands. Shaimiev has done a lot for the republic. He is a legend»',
+  },
+  {
+    src: 'images/block5/06.jpg',
+    html: 'Yevgeny Bogachyov: «He <a href="https://news.rambler.ru/politics/45639767-kak-zhit-ne-vygoraya-eto-primer-mintimera-sharipovicha/" target="_blank" rel="nofollow noindex noopener">started</a> a lot of important and necessary programmes and managed to complete them. Nothing ventured, nothing gained»',
+  },
+]
+
+export { block1, block2, block3, block4, block5Ru, block5En }
