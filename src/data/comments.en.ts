@@ -34,33 +34,33 @@ export default [
     position: 'Director General of TAIF JSC',
     src: 'images/avatars/3 kashapov R.jpg',
   }, {
-    name: 'Ирек Файзуллин', // 3
-    text: '\tГлубокоуважаемый Минтимер Шарипович!\n'
-        + '\tС большим почтением поздравляю Вас с 85-летним юбилеем! Вы посвятили всю свою жизнь нашей Родине, внесли неоценимый личный вклад в реализацию экономического потенциала и повышение уровня жизни людей. Благодаря Вашему профессионализму и мудрости реализованы масштабные проекты общегосударственного и международного значения.\n'
-        + '\tВаша взвешенная, конструктивная и ответственная позиция по ключевым вопросам, умение вести диалог, непоколебимая принципиальность, внутренняя сила и убежденность являются примером для многих и для меня лично. Как чуткий руководитель, Вы всегда прежде всего думаете о людях, их заботах и нуждах — человек не слова, а дела. Ваши поступки вселяют оптимизм и уверенность в том, что с любыми трудностями можно справиться на самом высоком профессиональном уровне.\n'
-        + '\tЖелаю Вам крепкого здоровья, счастья, благополучия и долгих лет жизни!\n',
-    position: 'Министр строительства и жилищно-коммунального хозяйства Российской Федерации',
+    name: 'Irek Fayzullin', // 3
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tWith great respect, I congratulate you on your 85th anniversary! You have devoted your whole life to our Motherland, made an invaluable personal contribution to the realisation of economic potential and improving people\'s living standards. Thanks to your professionalism and wisdom, large-scale projects of national and international importance have been implemented. \n'
+        + '\tYour balanced, constructive and responsible position on key issues, the ability to conduct a dialogue, unshakable integrity, inner strength and conviction are an example for many and for me personally. As a sensitive leader, you always think first of all about people, their concerns and needs — a man of not his word but deed. Your actions inspire optimism and confidence that any difficulties can be handled at the highest professional level. \n'
+        + '\tI wish you good health, happiness, prosperity, and long life!\n',
+    position: 'Minister of Construction and Housing and Communal Services of the Russian Federation',
     src: 'images/avatars/5 Faizullin.jpg',
   }, {
-    name: 'Фарид Минигулов', // 4
-    text: '\tУважаемый Минтимер Шарипович!\n'
-        + '\tПримите сердечные поздравления в день Вашего рождения!\n'
-        + '\tВы честно, беззаветно служите избранному делу, профессиональному долгу. Во многом благодаря Вашему труду Республика Татарстан развивается и процветает.\n'
-        + '\tВаш вклад в сохранение национальных традиций заслуживает самого искреннего признания. Вы продолжаете помогать сохранить баланс общественно-политических интересов в многонациональном и многоконфессиональном Татарстане.\n'
-        + '\tВ сложное для страны время Ваш труд помог вывести на новый уровень ключевую отрасль экономики региона — нефтехимическую промышленность.\n'
-        + '\tОтрадно, что большой профессиональный и жизненный опыт, энергия и творческий потенциал помогают Вам сегодня активно участвовать в общественной, просветительской работе, уделять внимание реализации национальных проектов.\n'
-        + '\tОт всей души желаю Вам крепкого здоровья, счастья, благополучия и всего самого доброго!',
-    position: 'Генеральный директор ПАО «Казаньоргсинтез», депутат ГС  РТ',
+    name: 'Farid Minigulov', // 4
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tPlease accept my heartfelt congratulations on your birthday! \n'
+        + '\tYou honestly, selflessly serve your chosen cause, professional duty. Largely thanks to your work, the Republic of Tatarstan is developing and thriving. \n'
+        + '\tYour contribution to the preservation of national traditions deserves the most sincere recognition. You continue to help maintain the balance of socio-political interests in multinational and multi-confessional Tatarstan. \n'
+        + '\tAt a difficult time for the country, your work helped to bring the key sector of the region\'s economy — the petrochemical industry — to a new level. \n'
+        + '\tIt is gratifying that your extensive professional and life experience, energy and creative potential help you today to actively participate in public, educational work, pay attention to the implementation of national projects. \n'
+        + '\tI sincerely wish you good health, happiness, prosperity and all the best!\n',
+    position: 'Director General of Kazanorgsintez PJSC, Deputy of the State Duma of the Republic of Tatarstan',
     src: 'images/avatars/6-KOS 100.jpg',
   }, {
-    name: 'Максим Новиков', // 5
-    text: '\tУважаемый Минтимер Шарипович!\n'
-        + '\tПримите от всего коллектива АО «ТАИФ-НК» и от меня лично самые искренние поздравления в честь Вашего 85-летия!\n'
-        + '\tВаше имя прочно связано с развитием Татарстана — одного из самых успешных и динамично развивающихся регионов нашей страны. Именно под Вашим руководством Татарстан вписан в новейшую историю мира как республика с многонациональным народом, поддерживающая традиции и ее духовное наследие.\n'
-        + '\tВаша трудовая биография — яркий пример жизни деятельного и целеустремленного человека, который достигает своих целей и стремится к еще большим свершениям. Многогранные знания и накопленный опыт прочно закрепили за Вами репутацию руководителя высокого уровня. Только кропотливый труд и настоящая любовь к своему делу дают такие значимые результаты. Благодаря «железному» характеру, твердым принципам и умению здраво оценивать сложившуюся ситуацию Вы продуманно и мирно отстояли право вести Татарстан по своему пути в сложных обстоятельствах. Сегодня Республика Татарстан — сильный, экономически развитый и благополучный регион нашей страны, в котором успешно осуществлена политика рыночной экономики, реализованы крупнейшие, стратегические, а подчас и амбициозные проекты.\n'
-        + '\tНо все же одним из главнейших направлений для Вас было достижение уровня и качества жизни населения, соответствующего стандартам развитых стран, на основе формирования модели конкурентоспособной экономики.\n'
-        + '\tУважаемый Минтимер Шарипович! Весь наш многотысячный коллектив желает Вам оптимистичного настроения, крепкого здоровья и успехов. Оставайтесь человеком с несгораемой душевной энергией, каким Вас знают сегодня.  Желаем Вам и дальше энергично и эффективно воплощать в жизнь свои инициативы в области восстановления историко-культурных объектов и социально-экономического развития нашего края.  Пусть рядом с Вами всегда будут верные соратники и друзья, надежные помощники, любящие родные и близкие люди!\n',
-    position: 'Генеральный директор АО «ТАИФ-НК»',
+    name: 'Maksim Novikov', // 5
+    text: '\tDear Mr Shaimiev,\n'
+        + '\tPlease accept the most sincere congratulations from the entire team of TAIF-NK JSC and from me personally in honour of your 85th birthday! \n'
+        + '\tYour name is firmly connected with the development of Tatarstan — one of the most successful and dynamically developing regions of our country. It is under your leadership that Tatarstan is inscribed in the modern history of the world as a republic with a multiethnic people, supporting traditions and its spiritual heritage. \n'
+        + '\tYour work biography is a vivid example of the life of an active and purposeful person who achieves his goals and strives for even greater achievements. Your multifaceted knowledge and accumulated experience have firmly cemented your reputation as a high-level manager. Only painstaking work and true love for their work give such significant results. Thanks to the "iron" character, firm principles and the ability to sensibly assess the current situation, you have thoughtfully and peacefully defended the right to lead Tatarstan on its way in difficult circumstances. Today, the Republic of Tatarstan is a strong, economically developed and prosperous region of our country, in which the policy of a market economy has been successfully implemented, major, strategic, and sometimes ambitious projects have been implemented. \n'
+        + '\tBut still, one of the main directions for you was to achieve a level and quality of life of the population that meets the standards of developed countries, based on the formation of a competitive economy model. \n'
+        + '\tDear Mintimer Sharipovich! Our entire team of thousands wishes you an optimistic mood, good health and success. Remain a person with unburnable spiritual energy, as you are known today. We wish you to continue to energetically and effectively implement your initiatives in the field of restoration of historical and cultural sites and socio-economic development of our region. May you always have loyal colleagues and friends, reliable assistants, loving relatives and close people by your side!\n',
+    position: 'Director General of TAIF-NK JSC',
     src: 'images/avatars/7- таиф1.jpg',
   }, { // 6
     name: 'Айрат Фаррахов',
