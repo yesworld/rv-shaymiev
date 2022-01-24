@@ -1,4 +1,5 @@
 <script setup lang="ts">
+defineEmits(['changeLocation'])
 const { t, availableLocales, locale } = useI18n()
 
 const toggleLocales = () => {

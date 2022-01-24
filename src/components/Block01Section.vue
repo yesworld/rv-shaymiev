@@ -12,7 +12,7 @@ section.with-slider.flex-center
     p.mb-20 {{t('block01.desc')}}
     Slider(:settings="{itemsToShow: 1}" :slides="block1" :slideStyle="{height: '600px'}")
 
-    div.quotes(v-html="t('block01.quotes')" )
+    div.quotes(v-html="t('block01.quotes')")
 </template>
 
 <style lang="scss">

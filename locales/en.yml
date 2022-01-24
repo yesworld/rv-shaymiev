@@ -7,6 +7,11 @@ block01:
   desc: 'The biography of Mintimer Shaimiev — the path that the republic has passed from the 1990s to the present. Standing at the helm of Tatarstan, he not only managed to build a dialogue with the federal centre on an equal footing, but also became one of those thanks to whose efforts Russian federalism was formed. He has done a lot for the development of the industrial and economic potential of the republic, preserving and strengthening for Russia the unique production facilities operating on the territory of Tatarstan. Thanks to the decisions taken — often pioneering on a national scale — the largest projects have been implemented, important not only for Russia, but also of global importance. "If not us, then who?" is one of the main tenets of the life of the first president of Tatarstan.'
   quotes: '<p>«Whatever we do – it&#39;s not to be thanked, but because it&#39;s impossible <a href="https://realnoevremya.ru/articles/200359-kak-zhit-ne-vygoraya-eto-primer-mintimera-sharipovicha" target="_blank">not to do it</a>!»</p><p class="mb-10">«Stability in any field of activity can be <a href="https://rg.ru/2008/08/27/shaimiev.html" target="_blank" rel="nofollow noindex noopener">achieved</a> only by the ability to look decades ahead»</p>'
 
+block02:
+  quotes: '<p class="mb-10">«<a href="https://rg.ru/2008/08/27/shaimiev.html" target="_blank" rel="nofollow noindex noopener">Relying</a> on raw materials and a traditionally strong scientific and engineering personnel base, we must form a new economy that is diversified, open to the outside world and capable of being competitive in it.»</p>'
+
+block03:
+  quotes: '<p class="mb-10">«We have made a bet on innovative economy. This is our strategic choice. It is necessary to make efforts to conduct in-depth oil refining and <a href="https://prav.tatarstan.ru/index.htm/news/30505.htm" target="_blank" rel="nofollow noindex noopener">move away</a> from export-oriented economy»</p>'
 
 button:
   toggle-langs: Change languages

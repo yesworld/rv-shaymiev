@@ -1,5 +1,11 @@
 <script setup lang="ts">
-import comments from '~/data/comments'
+import ruComments from '~/data/comments.ru'
+import enComments from '~/data/comments.en'
+const { locale } = useI18n()
+
+const comments = computed(() => {
+  return locale.value === 'ru' ? ruComments : enComments
+})
 </script>
 
 <template lang="pug">
